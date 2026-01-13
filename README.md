@@ -19,7 +19,7 @@ Un projet PHP/MySQL complet pour gérer les réservations d’un restaurant avec
 - PHP 8+
 - MySQL / PDO
 - PHPMailer pour l’envoi d’emails
-- HTML / CSS
+- HTML
 - Mailpit pour tester les emails localement
 
 ---
