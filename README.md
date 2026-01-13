@@ -10,7 +10,7 @@ Un projet PHP/MySQL complet pour gérer les réservations d’un restaurant avec
 - Stockage des réservations dans une base MySQL
 - Confirmation automatique par email via **PHPMailer** et **Mailpit** (test local)
 - Page de confirmation après soumission
-- Interface simple et responsive en HTML/CSS
+- Interface simple et responsive en HTML
 
 ---
 
