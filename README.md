@@ -29,5 +29,5 @@ Un projet PHP/MySQL complet pour gérer les réservations d’un restaurant avec
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/tonusername/restaurant-reservation.git
+git clone https://github.com/wunderprime/restaurant-reservation.git
 cd restaurant-reservation
