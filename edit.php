@@ -31,7 +31,7 @@ if (empty($_SESSION['csrf_token'])) {
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Modifier réservation</title>
+    <title>Modifier</title>
 </head>
 <body>
 <h2 align="center">Modifier la réservation</h2>
