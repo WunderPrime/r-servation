@@ -85,7 +85,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Réservation - Restaurant</title>
+    <title>Réservation</title>
 </head>
 <body>
 <h2 align="center">Réserver une table</h2>
